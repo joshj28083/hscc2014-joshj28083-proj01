@@ -1,0 +1,40 @@
+<!doctype Html>
+<html lang="en">
+    <head>
+      <title>MY First HSCC Project-2014</title>
+      <meta name="description" content="This is a project" />
+      <Meta name="author" content="Ricard Session" />
+           </head>
+           <body>
+               <h1>Detroit</h1>
+               <p>Dertoit has about 750,000 people within the city.</p>
+               
+               <ul>
+                   <li>Pistons</li>
+                   <li>Red Wings</li>
+                   <li>Lions</li>
+                   <li>Tigers</li>
+              
+               </ul>
+               
+               <ol>
+                   <li>Pistons</li>
+                   <li>Red Wings</li>
+                   <li>Lions</li>                
+                   <li>Tigers</li>
+               </ol>
+               
+    <h2>Government</h2>
+    <p>This is about the government.</p>
+               
+    <h3>City Council</h3>
+    <p>This is about the city council.</p>
+              
+    <h3>Mayor</h3>
+    <p>This is about the mayor.</p>
+                 
+    <h3>Neighborhood</h3>
+    <p>The following are neighborhoods in Detroit</p>
+    
+           </body>
+</html>
